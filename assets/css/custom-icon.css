@@ -1,0 +1,7 @@
+.custom-icon {
+    display: inline-block; /* Ensures the element takes up space */
+    width: 32px; /* Set the width of your custom icon */
+    height: 32px; /* Set the height of your custom icon */
+    background-image: url("C:\Users\chenw\cyber\images\MDAnderson_logo.jpg"); /* Replace with your image path */
+    background-size: cover; /* Adjust as needed */
+}
